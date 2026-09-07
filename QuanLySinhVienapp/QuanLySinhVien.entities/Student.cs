@@ -10,7 +10,7 @@ namespace QuanLySinhVien.entities
         public string Major {  get; set; }
         public override string ToString()
         {
-            return $"ID: {Id} | Tên: {Name,-15} | Tuổi: {Age,-3} | Ngành: {Major}";
+            return $"ID: {Id} | Tên: {Name} | Tuổi: {Age} | Ngành: {Major}";
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.entities\bin\Debug\netcoreapp3.1\QuanLySinhVien.entities.deps.json
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.entities\bin\Debug\netcoreapp3.1\QuanLySinhVien.entities.dll
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.entities\bin\Debug\netcoreapp3.1\QuanLySinhVien.entities.pdb
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.entities\obj\Debug\netcoreapp3.1\QuanLySinhVien.entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.entities\obj\Debug\netcoreapp3.1\QuanLySinhVien.entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.entities\obj\Debug\netcoreapp3.1\QuanLySinhVien.entities.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.entities\obj\Debug\netcoreapp3.1\QuanLySinhVien.entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.entities\obj\Debug\netcoreapp3.1\QuanLySinhVien.entities.sourcelink.json
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.entities\obj\Debug\netcoreapp3.1\QuanLySinhVien.entities.dll
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.entities\obj\Debug\netcoreapp3.1\QuanLySinhVien.entities.pdb

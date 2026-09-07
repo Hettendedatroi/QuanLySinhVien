@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\bin\Debug\netcoreapp3.1\QuanLySinhVien.BLL.deps.json
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\bin\Debug\netcoreapp3.1\QuanLySinhVien.BLL.dll
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\bin\Debug\netcoreapp3.1\QuanLySinhVien.BLL.pdb
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\bin\Debug\netcoreapp3.1\QuanLySinhVien.entities.dll
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\bin\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.dll
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\bin\Debug\netcoreapp3.1\QuanLySinhVien.entities.pdb
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\bin\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.pdb
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\obj\Debug\netcoreapp3.1\QuanLySinhVien.BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\obj\Debug\netcoreapp3.1\QuanLySinhVien.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\obj\Debug\netcoreapp3.1\QuanLySinhVien.BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\obj\Debug\netcoreapp3.1\QuanLySinhVien.BLL.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\obj\Debug\netcoreapp3.1\QuanLySinhVien.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\obj\Debug\netcoreapp3.1\QuanLySinhVien.BLL.sourcelink.json
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\obj\Debug\netcoreapp3.1\QuanLySi.D930512A.Up2Date
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\obj\Debug\netcoreapp3.1\QuanLySinhVien.BLL.dll
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVien.BLL\obj\Debug\netcoreapp3.1\QuanLySinhVien.BLL.pdb

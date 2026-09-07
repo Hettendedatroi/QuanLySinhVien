@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuanLySinhVienapp/1.0.0": {
+        "dependencies": {
+          "QuanLySinhVien.BLL": "1.0.0",
+          "QuanLySinhVien.entities": "1.0.0"
+        },
+        "runtime": {
+          "QuanLySinhVienapp.dll": {}
+        }
+      },
+      "QuanLySinhVien.BLL/1.0.0": {
+        "dependencies": {
+          "QuanLySinhVien.entities": "1.0.0",
+          "QuanLySinhVienn.DAL": "1.0.0"
+        },
+        "runtime": {
+          "QuanLySinhVien.BLL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "QuanLySinhVien.entities/1.0.0": {
+        "runtime": {
+          "QuanLySinhVien.entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "QuanLySinhVienn.DAL/1.0.0": {
+        "dependencies": {
+          "QuanLySinhVien.entities": "1.0.0"
+        },
+        "runtime": {
+          "QuanLySinhVienn.DAL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuanLySinhVienapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuanLySinhVien.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuanLySinhVien.entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuanLySinhVienn.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

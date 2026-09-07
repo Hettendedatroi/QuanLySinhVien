@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\bin\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.deps.json
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\bin\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.dll
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\bin\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.pdb
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\bin\Debug\netcoreapp3.1\QuanLySinhVien.entities.dll
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\bin\Debug\netcoreapp3.1\QuanLySinhVien.entities.pdb
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\obj\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\obj\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\obj\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\obj\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\obj\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\obj\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.sourcelink.json
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\obj\Debug\netcoreapp3.1\QuanLySi.F83C6B47.Up2Date
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\obj\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.dll
+C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVienapp\QuanLySinhVienn.DAL\obj\Debug\netcoreapp3.1\QuanLySinhVienn.DAL.pdb

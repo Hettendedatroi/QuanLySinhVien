@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A5B39D7-4534-4CFD-A0DD-57BEA90EF194}|QuanLySinhVien.entities\\QuanLySinhVien.entities.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvien.entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A5B39D7-4534-4CFD-A0DD-57BEA90EF194}|QuanLySinhVien.entities\\QuanLySinhVien.entities.csproj|solutionrelative:quanlysinhvien.entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640F57C3-180A-4E14-AADC-F110455A1777}|QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvienn.dal\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640F57C3-180A-4E14-AADC-F110455A1777}|QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj|solutionrelative:quanlysinhvienn.dal\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640F57C3-180A-4E14-AADC-F110455A1777}|QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvienn.dal\\quanlysinhvienn.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{640F57C3-180A-4E14-AADC-F110455A1777}|QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj|solutionrelative:quanlysinhvienn.dal\\quanlysinhvienn.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30EBEE05-1909-4916-9E7A-F5961BC2D717}|QuanLySinhVienapp\\QuanLySinhVienapp.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvienapp\\quanlysinhvienapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{30EBEE05-1909-4916-9E7A-F5961BC2D717}|QuanLySinhVienapp\\QuanLySinhVienapp.csproj|solutionrelative:quanlysinhvienapp\\quanlysinhvienapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CE12375-0D76-4FCB-8946-2491FEAEEFFA}|QuanLySinhVien.BLL\\QuanLySinhVien.BLL.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvien.bll\\quanlysinhvien.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8CE12375-0D76-4FCB-8946-2491FEAEEFFA}|QuanLySinhVien.BLL\\QuanLySinhVien.BLL.csproj|solutionrelative:quanlysinhvien.bll\\quanlysinhvien.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{30EBEE05-1909-4916-9E7A-F5961BC2D717}|QuanLySinhVienapp\\QuanLySinhVienapp.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvienapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EBEE05-1909-4916-9E7A-F5961BC2D717}|QuanLySinhVienapp\\QuanLySinhVienapp.csproj|solutionrelative:quanlysinhvienapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE12375-0D76-4FCB-8946-2491FEAEEFFA}|QuanLySinhVien.BLL\\QuanLySinhVien.BLL.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvien.bll\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE12375-0D76-4FCB-8946-2491FEAEEFFA}|QuanLySinhVien.BLL\\QuanLySinhVien.BLL.csproj|solutionrelative:quanlysinhvien.bll\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30EBEE05-1909-4916-9E7A-F5961BC2D717}|QuanLySinhVienapp\\QuanLySinhVienapp.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvienapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30EBEE05-1909-4916-9E7A-F5961BC2D717}|QuanLySinhVienapp\\QuanLySinhVienapp.csproj|solutionrelative:quanlysinhvienapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{640F57C3-180A-4E14-AADC-F110455A1777}|QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvienn.dal\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640F57C3-180A-4E14-AADC-F110455A1777}|QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj|solutionrelative:quanlysinhvienn.dal\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5B39D7-4534-4CFD-A0DD-57BEA90EF194}|QuanLySinhVien.entities\\QuanLySinhVien.entities.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvien.entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5B39D7-4534-4CFD-A0DD-57BEA90EF194}|QuanLySinhVien.entities\\QuanLySinhVien.entities.csproj|solutionrelative:quanlysinhvien.entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE12375-0D76-4FCB-8946-2491FEAEEFFA}|QuanLySinhVien.BLL\\QuanLySinhVien.BLL.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvienapp\\quanlysinhvien.bll\\quanlysinhvien.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CE12375-0D76-4FCB-8946-2491FEAEEFFA}|QuanLySinhVien.BLL\\QuanLySinhVien.BLL.csproj|solutionrelative:quanlysinhvien.bll\\quanlysinhvien.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "QuanLySinhVienapp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienapp\\QuanLySinhVienapp.csproj",
-              "RelativeDocumentMoniker": "QuanLySinhVienapp\\QuanLySinhVienapp.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienapp\\QuanLySinhVienapp.csproj",
-              "RelativeToolTip": "QuanLySinhVienapp\\QuanLySinhVienapp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-03T08:32:49.267Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -63,70 +42,57 @@
               "RelativeToolTip": "QuanLySinhVien.BLL\\QuanLySinhVien.BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-03T07:58:12.213Z",
+              "WhenOpened": "2026-09-07T08:23:32.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuanLySinhVienn.DAL",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj",
-              "RelativeDocumentMoniker": "QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj",
-              "RelativeToolTip": "QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-03T07:57:51.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "StudentBLL.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVien.BLL\\StudentBLL.cs",
               "RelativeDocumentMoniker": "QuanLySinhVien.BLL\\StudentBLL.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVien.BLL\\StudentBLL.cs",
               "RelativeToolTip": "QuanLySinhVien.BLL\\StudentBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T04:52:55.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Studentdata.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienn.DAL\\Studentdata.cs",
               "RelativeDocumentMoniker": "QuanLySinhVienn.DAL\\Studentdata.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienn.DAL\\Studentdata.cs",
               "RelativeToolTip": "QuanLySinhVienn.DAL\\Studentdata.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwC8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T04:52:16.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVien.entities\\Student.cs",
               "RelativeDocumentMoniker": "QuanLySinhVien.entities\\Student.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVien.entities\\Student.cs",
               "RelativeToolTip": "QuanLySinhVien.entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T04:50:00.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienapp\\Program.cs",
               "RelativeDocumentMoniker": "QuanLySinhVienapp\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienapp\\Program.cs",
               "RelativeToolTip": "QuanLySinhVienapp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T04:32:23.268Z",
               "EditorCaption": ""

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuanLySinhVienn.DAL/1.0.0": {
+        "dependencies": {
+          "QuanLySinhVien.entities": "1.0.0"
+        },
+        "runtime": {
+          "QuanLySinhVienn.DAL.dll": {}
+        }
+      },
+      "QuanLySinhVien.entities/1.0.0": {
+        "runtime": {
+          "QuanLySinhVien.entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuanLySinhVienn.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuanLySinhVien.entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
