@@ -10,6 +10,7 @@ namespace QuanLySinhVien
         private static StudentBLL bll = new StudentBLL();
         static void Main(string[] args)
         {
+            Console.InputEncoding = System.Text.Encoding.UTF8;
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             bool Running = true;
             while (Running)
@@ -62,72 +63,94 @@ namespace QuanLySinhVien
         }
         private static void AddStudent()
         {
-            Console.WriteLine("Hãy nhập tên sinh viên");
-            Student student = new Student();
-
-            Console.Write("Nhập ID: ");
-            student.Id = int.Parse(Console.ReadLine());
-
-            Console.Write("Nhập Họ và Tên: ");
-            student.Name = Console.ReadLine();
-
-            Console.Write("Nhập Tuổi: ");
-            student.Age = int.Parse(Console.ReadLine());
-
-            Console.Write("Nhập Chuyên ngành: ");
-            student.Major = Console.ReadLine();
-
-            if (bll.AddStudent(student))
+            try
             {
-                Console.WriteLine("-> Thêm sinh viên thành công!");
+                Console.WriteLine("Hãy nhập tên sinh viên");
+                Student student = new Student();
+
+                Console.Write("Nhập ID: ");
+                student.Id = int.Parse(Console.ReadLine());
+
+                Console.Write("Nhập Họ và Tên: ");
+                student.Name = Console.ReadLine();
+
+                Console.Write("Nhập Tuổi: ");
+                student.Age = int.Parse(Console.ReadLine());
+
+                Console.Write("Nhập Chuyên ngành: ");
+                student.Major = Console.ReadLine();
+
+                if (bll.AddStudent(student))
+                {
+                    Console.WriteLine("-> Thêm sinh viên thành công!");
+                }
+                else
+                {
+                    Console.WriteLine("-> Thêm sinh viên thất bại!");
+                }
             }
-            else
+            catch (Exception e)
             {
-                Console.WriteLine("-> Thêm sinh viên thất bại!");
+                Console.WriteLine("Hãy nhập số thay vì chữ");
             }
         }
         private static void UpdateStudent()
         {
-            Console.WriteLine("Chỉnh sửa danh sách sinh viên");
-
-            Student student = new Student();
-
-            Console.Write("Nhập ID sinh viên cần sửa: ");
-            student.Id = int.Parse(Console.ReadLine());
-
-            Console.Write("Nhập Tên mới: ");
-            student.Name = Console.ReadLine();
-
-            Console.Write("Nhập Tuổi mới: ");
-            student.Age = int.Parse(Console.ReadLine());
-
-            Console.Write("Nhập Chuyên ngành mới: ");
-            student.Major = Console.ReadLine();
-
-            if (bll.UpdateStudent(student))
+            try
             {
-                Console.WriteLine("Cập nhật thông tin thành công!");
+                Console.WriteLine("Chỉnh sửa danh sách sinh viên");
+
+                Student student = new Student();
+
+                Console.Write("Nhập ID sinh viên cần sửa: ");
+                student.Id = int.Parse(Console.ReadLine());
+
+                Console.Write("Nhập Tên mới: ");
+                student.Name = Console.ReadLine();
+
+                Console.Write("Nhập Tuổi mới: ");
+                student.Age = int.Parse(Console.ReadLine());
+
+                Console.Write("Nhập Chuyên ngành mới: ");
+                student.Major = Console.ReadLine();
+
+                if (bll.UpdateStudent(student))
+                {
+                    Console.WriteLine("Cập nhật thông tin thành công!");
+                }
+                else
+                {
+                    Console.WriteLine("Cập nhật thất bại!");
+                }
             }
-            else
+            catch (FormatException e)
             {
-                Console.WriteLine("Cập nhật thất bại!");
+                Console.WriteLine("Hãy nhập số thay vì chữ");
             }
         }
+            
 
         private static void DeleteStudent()
         {
-            Console.WriteLine("Xóa sinh viên");
-
-            Console.Write("Nhập ID sinh viên cần xóa: ");
-            int id = int.Parse(Console.ReadLine());
-
-            if (bll.DeleteStudent(new Student { Id = id}))
+            try
             {
-                Console.WriteLine("Xóa sinh viên thành công!");
+                Console.WriteLine("Xóa sinh viên");
+
+                Console.Write("Nhập ID sinh viên cần xóa: ");
+                int id = int.Parse(Console.ReadLine());
+
+                if (bll.DeleteStudent(new Student { Id = id }))
+                {
+                    Console.WriteLine("Xóa sinh viên thành công!");
+                }
+                else
+                {
+                    Console.WriteLine("Lỗi.Không tìm thấy sinh viên có ID này.");
+                }
             }
-            else
+            catch (Exception e)
             {
-                Console.WriteLine("Lỗi.Không tìm thấy sinh viên có ID này.");
+                Console.WriteLine("Hãy nhập chữ thay vì số");
             }
         }
 
