@@ -39,15 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "QuanLySinhVienn.DAL",
+              "Title": "QuanLySinhVienn.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj",
               "RelativeDocumentMoniker": "QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj",
               "RelativeToolTip": "QuanLySinhVienn.DAL\\QuanLySinhVienn.DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-10T02:02:11.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T02:02:11.255Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "QuanLySinhVien.BLL\\QuanLySinhVien.BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-07T08:23:32.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T08:23:32.574Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "QuanLySinhVienn.DAL\\Studentdata.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T04:52:16.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T04:52:16.47Z"
             },
             {
               "$type": "Document",
@@ -107,7 +104,7 @@
               "RelativeDocumentMoniker": "QuanLySinhVienapp\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVienapp\\QuanLySinhVienapp\\Program.cs",
               "RelativeToolTip": "QuanLySinhVienapp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwBEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T04:32:23.268Z",
               "EditorCaption": ""
