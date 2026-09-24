@@ -3,48 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\migrations\\20260924083121_seedhanghoadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\migrations\\20260924083121_seedhanghoadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\bll\\hanghoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\bll\\hanghoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\dto\\hanghoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\dto\\hanghoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\dal\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\dal\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\migrations\\20260922012119_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\migrations\\20260922012119_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\webdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\webdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,84 +75,109 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HanghoaController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Controllers\\HanghoaController.cs",
-              "RelativeDocumentMoniker": "webdemo\\Controllers\\HanghoaController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Controllers\\HanghoaController.cs",
-              "RelativeToolTip": "webdemo\\Controllers\\HanghoaController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBAAAAAWAAAAAAAAAA==",
+              "Title": "20260924083121_SeedHangHoaData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Migrations\\20260924083121_SeedHangHoaData.cs",
+              "RelativeDocumentMoniker": "webdemo\\Migrations\\20260924083121_SeedHangHoaData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Migrations\\20260924083121_SeedHangHoaData.cs",
+              "RelativeToolTip": "webdemo\\Migrations\\20260924083121_SeedHangHoaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T08:36:01.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HanghoaBll.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\BLL\\HanghoaBll.cs",
-              "RelativeDocumentMoniker": "webdemo\\BLL\\HanghoaBll.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\BLL\\HanghoaBll.cs",
-              "RelativeToolTip": "webdemo\\BLL\\HanghoaBll.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T08:31:09.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "webdemo\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "webdemo\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T08:28:42.893Z",
+              "WhenOpened": "2026-09-24T08:31:23.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "HanghoaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DTO\\HanghoaDTO.cs",
+              "RelativeDocumentMoniker": "webdemo\\DTO\\HanghoaDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DTO\\HanghoaDTO.cs",
+              "RelativeToolTip": "webdemo\\DTO\\HanghoaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:30:50.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260922012119_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Migrations\\20260922012119_InitialCreate.cs",
+              "RelativeDocumentMoniker": "webdemo\\Migrations\\20260922012119_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Migrations\\20260922012119_InitialCreate.cs",
+              "RelativeToolTip": "webdemo\\Migrations\\20260922012119_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T01:21:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DBcontext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "webdemo\\DBcontext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DBcontext\\AppDbContext.cs",
+              "RelativeToolTip": "webdemo\\DBcontext\\AppDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T07:48:02.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Data.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DAL\\Data.cs",
               "RelativeDocumentMoniker": "webdemo\\DAL\\Data.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DAL\\Data.cs",
               "RelativeToolTip": "webdemo\\DAL\\Data.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T07:49:36.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Hanghoa.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Models\\Hanghoa.cs",
               "RelativeDocumentMoniker": "webdemo\\Models\\Hanghoa.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Models\\Hanghoa.cs",
               "RelativeToolTip": "webdemo\\Models\\Hanghoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T03:28:02.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "webdemo",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\appsettings.json",
+              "RelativeDocumentMoniker": "webdemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\appsettings.json",
+              "RelativeToolTip": "webdemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-17T02:38:24.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "webdemo.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\webdemo.csproj",
               "RelativeDocumentMoniker": "webdemo\\webdemo.csproj",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\webdemo.csproj",
               "RelativeToolTip": "webdemo\\webdemo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-17T03:16:28.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T03:16:28.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "webdemo\\Properties\\launchSettings.json",
@@ -144,38 +185,62 @@
               "RelativeToolTip": "webdemo\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-17T02:59:09.846Z",
+              "WhenOpened": "2026-09-17T02:59:09.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HanghoaBll.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\BLL\\HanghoaBll.cs",
+              "RelativeDocumentMoniker": "webdemo\\BLL\\HanghoaBll.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\BLL\\HanghoaBll.cs",
+              "RelativeToolTip": "webdemo\\BLL\\HanghoaBll.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T08:31:09.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\appsettings.json",
-              "RelativeDocumentMoniker": "webdemo\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\appsettings.json",
-              "RelativeToolTip": "webdemo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-17T02:38:24.983Z",
+              "DocumentIndex": 2,
+              "Title": "HanghoaController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Controllers\\HanghoaController.cs",
+              "RelativeDocumentMoniker": "webdemo\\Controllers\\HanghoaController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Controllers\\HanghoaController.cs",
+              "RelativeToolTip": "webdemo\\Controllers\\HanghoaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T08:36:01.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Startup.cs",
               "RelativeDocumentMoniker": "webdemo\\Startup.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Startup.cs",
               "RelativeToolTip": "webdemo\\Startup.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAnwCwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T02:38:23.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "webdemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "webdemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T08:28:42.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "webdemo\\WeatherForecast.cs",
@@ -183,12 +248,11 @@
               "RelativeToolTip": "webdemo\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T02:38:20.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T02:38:20.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Program.cs",
               "RelativeDocumentMoniker": "webdemo\\Program.cs",
@@ -196,8 +260,7 @@
               "RelativeToolTip": "webdemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T02:34:28.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T02:34:28.493Z"
             }
           ]
         }

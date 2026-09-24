@@ -12,6 +12,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using webdemo.DAL;
+using webdemo.BLL;
+using webdemo.DBcontext;
 
 namespace webdemo
 {
@@ -28,6 +32,9 @@ namespace webdemo
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<HanghoaBll>();
+            services.AddScoped<Data>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "webdemo", Version = "v1" });

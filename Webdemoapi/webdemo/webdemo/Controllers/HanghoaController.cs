@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using webdemo.Models;
 using webdemo.BLL;
 using webdemo.Models;
+using webdemo.DTO;
 
 namespace webdemo.Controllers
 {
@@ -11,28 +12,34 @@ namespace webdemo.Controllers
     [ApiController]
     public class HanghoaController : ControllerBase
     {
-        private readonly HanghoaBll bll = new HanghoaBll();
-    
+        private readonly HanghoaBll _bll;
+        public HanghoaController(HanghoaBll bll)
+        {
+            _bll = bll;
+        }
+
+        [HttpGet]
+        public IActionResult GetAll() => Ok(_bll.GetAll());
 
         [HttpGet("{id}")]
         public IActionResult GetById(string id)
         {
-            var hangHoa = bll.GetById(id);
-            if (hangHoa == null) return NotFound("Không tìm thấy hàng hóa.");
-            return Ok(hangHoa);
+            var result = _bll.GetById(id);
+            if (result == null) return NotFound("Không tìm thấy hàng hóa.");
+            return Ok(result);
         }
 
         [HttpPost]
-        public IActionResult Create([FromBody] Hanghoa hh)
+        public IActionResult Create([FromBody] CreateHanghoaDTO dto)
         {
-            bll.Add(hh);
-            return CreatedAtAction(nameof(GetById), new { id = hh.MaHangHoa }, hh);
+            _bll.Add(dto);
+            return CreatedAtAction(nameof(GetById), new { id = dto.MaHangHoa }, dto);
         }
 
         [HttpPut("{id}")]
-        public IActionResult Update(string id, [FromBody] Hanghoa hh)
+        public IActionResult Update(string id, [FromBody] UpdateHanghoaDTO dto)
         {
-            bool result = bll.Update(id, hh);
+            bool result = _bll.Update(id, dto);
             if (!result) return NotFound("Không tìm thấy mã hàng hóa để cập nhật.");
             return NoContent();
         }
@@ -40,8 +47,7 @@ namespace webdemo.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(string id)
         {
-            bool result = bll.Delete(id);
-            if (!result) return NotFound("Không tìm thấy mã hàng hóa để xóa.");
+            if (!_bll.Delete(id)) return NotFound("Không tìm thấy hàng hóa để xóa.");
             return Ok(new { message = "Xóa thành công" });
         }
     }
