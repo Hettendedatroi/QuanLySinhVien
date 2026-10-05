@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\migrations\\20260924083121_seedhanghoadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\migrations\\20260924083121_seedhanghoadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\migrations\\20260924083121_seedhanghoadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|solutionrelative:webdemo\\migrations\\20260924083121_seedhanghoadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F062B17-F2AB-4442-9B58-C3B9E2080311}|webdemo\\webdemo.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\webdemoapi\\webdemo\\webdemo\\bll\\hanghoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20260924083121_SeedHangHoaData.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Migrations\\20260924083121_SeedHangHoaData.cs",
               "RelativeDocumentMoniker": "webdemo\\Migrations\\20260924083121_SeedHangHoaData.cs",
@@ -82,21 +82,7 @@
               "RelativeToolTip": "webdemo\\Migrations\\20260924083121_SeedHangHoaData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T08:31:23.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HanghoaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DTO\\HanghoaDTO.cs",
-              "RelativeDocumentMoniker": "webdemo\\DTO\\HanghoaDTO.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DTO\\HanghoaDTO.cs",
-              "RelativeToolTip": "webdemo\\DTO\\HanghoaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T02:30:50.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-24T08:31:23.072Z"
             },
             {
               "$type": "Document",
@@ -108,18 +94,17 @@
               "RelativeToolTip": "webdemo\\Migrations\\20260922012119_InitialCreate.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T01:21:21.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T01:21:21.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DBcontext\\AppDbContext.cs",
               "RelativeDocumentMoniker": "webdemo\\DBcontext\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DBcontext\\AppDbContext.cs",
               "RelativeToolTip": "webdemo\\DBcontext\\AppDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T07:48:02.195Z",
               "EditorCaption": ""
@@ -134,8 +119,7 @@
               "RelativeToolTip": "webdemo\\DAL\\Data.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T07:49:36.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T07:49:36.847Z"
             },
             {
               "$type": "Document",
@@ -147,8 +131,7 @@
               "RelativeToolTip": "webdemo\\Models\\Hanghoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T03:28:02.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T03:28:02.091Z"
             },
             {
               "$type": "Document",
@@ -160,8 +143,7 @@
               "RelativeToolTip": "webdemo\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-17T02:38:24.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T02:38:24.983Z"
             },
             {
               "$type": "Document",
@@ -197,21 +179,32 @@
               "RelativeToolTip": "webdemo\\BLL\\HanghoaBll.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T08:31:09.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T08:31:09.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HanghoaController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Controllers\\HanghoaController.cs",
               "RelativeDocumentMoniker": "webdemo\\Controllers\\HanghoaController.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\Controllers\\HanghoaController.cs",
               "RelativeToolTip": "webdemo\\Controllers\\HanghoaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T08:36:01.716Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HanghoaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DTO\\HanghoaDTO.cs",
+              "RelativeDocumentMoniker": "webdemo\\DTO\\HanghoaDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\Webdemoapi\\webdemo\\webdemo\\DTO\\HanghoaDTO.cs",
+              "RelativeToolTip": "webdemo\\DTO\\HanghoaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:30:50.155Z"
             },
             {
               "$type": "Document",
@@ -223,8 +216,7 @@
               "RelativeToolTip": "webdemo\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T02:38:23.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T02:38:23.611Z"
             },
             {
               "$type": "Document",
