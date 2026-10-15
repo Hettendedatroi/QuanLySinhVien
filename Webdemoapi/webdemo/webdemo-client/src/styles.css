@@ -1,0 +1,80 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+}
+
+main {
+  max-width: 800px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.bar {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+  .bar input {
+    flex: 1;
+    padding: 6px;
+  }
+
+form label {
+  display: block;
+  margin-top: 12px;
+}
+
+form input {
+  display: block;
+  width: 100%;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+.err {
+  color: #c62828;
+}
+
+.actions {
+  margin-top: 16px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.loading {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #1976d2;
+  color: #fff;
+  text-align: center;
+  padding: 4px;
+}
+
+.toast {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #2e7d32;
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 6px;
+}
+
+  .toast.error {
+    background: #c62828;
+  }

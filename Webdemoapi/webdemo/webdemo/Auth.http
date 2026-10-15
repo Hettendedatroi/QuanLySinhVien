@@ -1,0 +1,28 @@
+@baseUrl = https://localhost:5001
+
+### Register a new account (use a unique username)
+POST {{baseUrl}}/api/auth/register
+Content-Type: application/json
+
+{
+  "username": "demo-user",
+  "password": "ChangeMe123!"
+}
+
+### Login and receive the authentication cookie
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{
+  "username": "demo-user",
+  "password": "ChangeMe123!"
+}
+
+### Check the authenticated user
+GET {{baseUrl}}/api/auth/me
+
+### Access to product APIs requires the login cookie
+GET {{baseUrl}}/api/hanghoa
+
+### Log out
+POST {{baseUrl}}/api/auth/logout

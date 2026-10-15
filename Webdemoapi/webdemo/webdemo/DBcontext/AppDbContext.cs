@@ -9,9 +9,14 @@ namespace webdemo.DBcontext
         { 
         }
         public DbSet<Hanghoa> Hanghoas { get; set; }
+        public DbSet<UserAccount> UserAccounts { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<UserAccount>()
+                .HasIndex(user => user.NormalizedUsername)
+                .IsUnique();
+
             modelBuilder.Entity<Hanghoa>().HasData(
                 new Hanghoa { MaHangHoa = "HH001", TenHangHoa = "Sữa tươi Vinamilk", DonGia = 32000, SoLuong = 100  },
                 new Hanghoa { MaHangHoa = "HH002", TenHangHoa = "Bánh Chocopie", DonGia = 55000, SoLuong = 50 },

@@ -1,0 +1,21 @@
+import { Component, inject } from '@angular/core';
+import { AsyncPipe, NgIf } from '@angular/common';
+import { RouterOutlet } from '@angular/router';
+import { UiService } from './services/ui.service';
+
+@Component({
+  selector: 'app-root',
+  imports: [RouterOutlet, AsyncPipe, NgIf],
+  template: `
+    <div *ngIf="ui.loading$ | async" class="loading">Đang tải...</div>
+
+    <div *ngIf="ui.toast$ | async as t" class="toast" [class.error]="t.type === 'error'">
+      {{ t.text }}
+    </div>
+    
+    <main><router-outlet /></main>
+  `,
+})
+export class App {
+  ui = inject(UiService);
+}

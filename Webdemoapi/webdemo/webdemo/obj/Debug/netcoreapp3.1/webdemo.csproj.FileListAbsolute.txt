@@ -69,3 +69,11 @@ C:\Users\Admin\Documents\GitHub\QuanLySinhVien\Webdemoapi\webdemo\webdemo\obj\De
 C:\Users\Admin\Documents\GitHub\QuanLySinhVien\Webdemoapi\webdemo\webdemo\obj\Debug\netcoreapp3.1\webdemo.dll
 C:\Users\Admin\Documents\GitHub\QuanLySinhVien\Webdemoapi\webdemo\webdemo\obj\Debug\netcoreapp3.1\webdemo.pdb
 C:\Users\Admin\Documents\GitHub\QuanLySinhVien\Webdemoapi\webdemo\webdemo\obj\Debug\netcoreapp3.1\webdemo.genruntimeconfig.cache
+C:\Users\Admin\.copilot\session-state\122947a1-86f8-485e-8cd5-089c0dfb5a48\files\validation-build\appsettings.Development.json
+C:\Users\Admin\.copilot\session-state\122947a1-86f8-485e-8cd5-089c0dfb5a48\files\validation-build\appsettings.json
+C:\Users\Admin\.copilot\session-state\122947a1-86f8-485e-8cd5-089c0dfb5a48\files\validation-build\webdemo.exe
+C:\Users\Admin\.copilot\session-state\122947a1-86f8-485e-8cd5-089c0dfb5a48\files\validation-build\webdemo.deps.json
+C:\Users\Admin\.copilot\session-state\122947a1-86f8-485e-8cd5-089c0dfb5a48\files\validation-build\webdemo.runtimeconfig.json
+C:\Users\Admin\.copilot\session-state\122947a1-86f8-485e-8cd5-089c0dfb5a48\files\validation-build\webdemo.runtimeconfig.dev.json
+C:\Users\Admin\.copilot\session-state\122947a1-86f8-485e-8cd5-089c0dfb5a48\files\validation-build\webdemo.dll
+C:\Users\Admin\.copilot\session-state\122947a1-86f8-485e-8cd5-089c0dfb5a48\files\validation-build\webdemo.pdb

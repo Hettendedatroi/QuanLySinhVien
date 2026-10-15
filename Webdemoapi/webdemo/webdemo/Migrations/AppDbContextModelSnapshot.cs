@@ -59,6 +59,36 @@ namespace webdemo.Migrations
                             TenHangHoa = "Mì Tôm Hảo Hảo"
                         });
                 });
+
+            modelBuilder.Entity("webdemo.Models.UserAccount", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("NormalizedUsername")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("PasswordHash")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("NormalizedUsername")
+                        .IsUnique();
+
+                    b.ToTable("UserAccounts");
+                });
 #pragma warning restore 612, 618
         }
     }

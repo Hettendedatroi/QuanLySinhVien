@@ -1,9 +1,7 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 using webdemo.DAL;
-using webdemo.DBcontext;
 using webdemo.DTO;
-using webdemo.Models;
 using webdemo.Models;
 
 namespace webdemo.BLL
@@ -41,16 +39,16 @@ namespace webdemo.BLL
             };
         }
 
-        public void Add(CreateHanghoaDTO dto)
+        public bool Add(CreateHanghoaDTO dto)
         {
             var entity = new Hanghoa
             {
                 MaHangHoa = dto.MaHangHoa,
                 TenHangHoa = dto.TenHangHoa,
-                DonGia = dto.DonGia,
-                SoLuong = dto.SoLuong
+                DonGia = dto.DonGia.Value,
+                SoLuong = dto.SoLuong.Value
             };
-            _dal.Add(entity);
+            return _dal.Add(entity);
         }
 
         public bool Update(string id, UpdateHanghoaDTO dto)
@@ -58,8 +56,8 @@ namespace webdemo.BLL
             var entity = new Hanghoa
             {
                 TenHangHoa = dto.TenHangHoa,
-                DonGia = dto.DonGia,
-                SoLuong = dto.SoLuong
+                DonGia = dto.DonGia.Value,
+                SoLuong = dto.SoLuong.Value
             };
             return _dal.Update(id, entity);
         }

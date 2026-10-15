@@ -1,0 +1,122 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f5f7fa;
+  color: #212529;
+  line-height: 1.5;
+}
+a { color: #0d6efd; text-decoration: none; }
+a:hover { text-decoration: underline; }
+h1 { font-size: 1.8rem; }
+h2 { margin: 0 0 16px; }
+
+/* ---------- Bố cục chung ---------- */
+.container { max-width: 1000px; margin: 0 auto; padding: 0 16px; }
+.my-4 { margin-top: 24px; margin-bottom: 24px; }
+.mb-0 { margin-bottom: 0; }
+.mb-3 { margin-bottom: 16px; }
+.ml-2 { margin-left: 8px; }
+.py-3 { padding-top: 16px; padding-bottom: 16px; }
+.text-center { text-align: center; }
+
+/* ---------- Thanh menu ---------- */
+.navbar { display: flex; align-items: center; gap: 24px; padding: 0 24px; background: #0d6efd; }
+.navbar-brand { color: #fff; font-weight: 600; font-size: 1.15rem; padding: 14px 0; }
+.navbar-brand:hover { text-decoration: none; }
+.navbar-nav { display: flex; list-style: none; margin: 0; padding: 0; gap: 4px; }
+.nav-link { display: block; color: rgba(255, 255, 255, .85); padding: 14px 12px; }
+.nav-link:hover { color: #fff; text-decoration: none; }
+.nav-item.active .nav-link { color: #fff; box-shadow: inset 0 -3px 0 #fff; }
+
+/* ---------- BẢNG DANH SÁCH ---------- */
+.table-wrap {
+  overflow-x: auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .1);
+}
+.sv-table { width: 100%; border-collapse: collapse; }
+.sv-table th,
+.sv-table td {
+  padding: 12px 16px;
+  text-align: left;
+  vertical-align: middle;
+  border-bottom: 1px solid #e9ecef;
+}
+.sv-table thead th {
+  background: #1f3864;
+  color: #fff;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.sv-table tbody tr:nth-child(even) { background: #f8f9fa; }
+.sv-table tbody tr:hover { background: #e7f1ff; }
+.sv-table tbody tr.selected { background: #cfe2ff; }
+.sv-table tbody tr:last-child td { border-bottom: 0; }
+
+.avatar {
+  display: inline-block;
+  min-width: 36px;
+  margin-right: 8px;
+  padding: 4px 6px;
+  border-radius: 999px;
+  background: #0d6efd;
+  color: #fff;
+  font-size: .75rem;
+  font-weight: 600;
+  text-align: center;
+}
+.actions { white-space: nowrap; }
+.actions a { margin-left: 8px; }
+
+/* ---------- Nhãn trạng thái ---------- */
+.badge { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: .8rem; }
+.badge-success { background: #d1e7dd; color: #0f5132; }
+.badge-warning { background: #fff3cd; color: #664d03; }
+.badge-secondary { background: #e2e3e5; color: #41464b; }
+
+/* ---------- Nút, ô nhập, thông báo ---------- */
+.btn {
+  display: inline-block;
+  padding: 8px 16px;
+  border: 1px solid #0d6efd;
+  border-radius: 6px;
+  background: #fff;
+  color: #0d6efd;
+  font: inherit;
+  cursor: pointer;
+}
+.btn:hover { background: #e7f1ff; text-decoration: none; }
+.btn-sm { padding: 3px 10px; font-size: .875rem; }
+.btn-primary { background: #0d6efd; color: #fff; }
+.btn-primary:hover { background: #0b5ed7; }
+.btn-secondary { border-color: #6c757d; color: #6c757d; }
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #ced4da;
+  border-radius: 6px;
+  font: inherit;
+}
+.form-control:focus { outline: none; border-color: #0d6efd; box-shadow: 0 0 0 3px rgba(13, 110, 253, .2); }
+.form-group { margin-bottom: 16px; }
+.col-md-6 { max-width: 480px; }
+
+.alert { padding: 12px 16px; margin-bottom: 16px; border-radius: 6px; background: #cff4fc; color: #055160; }
+.alert-warning { background: #fff3cd; color: #664d03; }
+.alert-link { font-weight: 600; }
+
+/* ---------- Trang chủ và trang chi tiết ---------- */
+.jumbotron { padding: 32px; border-radius: 8px; background: #fff; box-shadow: 0 1px 4px rgba(0, 0, 0, .1); }
+.display-5 { margin-top: 0; font-size: 2rem; }
+.lead { font-size: 1.15rem; }
+
+.card { background: #fff; border-radius: 8px; box-shadow: 0 1px 4px rgba(0, 0, 0, .1); }
+.card-header { padding: 16px; border-bottom: 1px solid #e9ecef; }
+.card-body { padding: 16px; }
+.list-group { margin: 0; padding: 0; list-style: none; }
+.list-group-item { padding: 12px 16px; border-bottom: 1px solid #e9ecef; }

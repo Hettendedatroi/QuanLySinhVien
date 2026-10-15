@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc.ApplicationModels;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using webdemo.DBcontext;
@@ -17,10 +16,14 @@ namespace webdemo.DAL
         }
         public List<Hanghoa> GetAll() => _context.Hanghoas.AsNoTracking().ToList();
         public Hanghoa GetById(string id) => _context.Hanghoas.AsNoTracking().FirstOrDefault(h => h.MaHangHoa == id);
-        public void Add(Hanghoa hh)
+        public bool Add(Hanghoa hh)
         {
+            var existingItem = _context.Hanghoas.Find(hh.MaHangHoa);
+            if (existingItem != null) return false;
+
             _context.Hanghoas.Add(hh);
             _context.SaveChanges();
+            return true;
         }
         public bool Update(string id, Hanghoa hh)
         {
